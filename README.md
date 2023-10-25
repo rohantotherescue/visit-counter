@@ -1,5 +1,5 @@
 # visit-counter
-A simple project which displays how many times a server is visited. 
+A simple project which displays how many times a server is visited. <br />
 Constructed based on microservices architecture.
 
 ## Server Status
